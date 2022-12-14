@@ -1,0 +1,28 @@
+id: I8BD84FFF
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:22:37.937813+00:00
+last_modified: 2022-12-14 18:22:37.937820+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T16:03:30.805Z'
+  creationid: celso
+  eft-text-id: UT22084-055-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_127-The_King_of_Samadhis_Sutra-v1
+bases:
+  E80D:
+    source_metadata: null
+    order: 1
+    base_file: E80D.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
